@@ -19,7 +19,7 @@ Build & Run
    ```
 2. Run it
    
-   ```bash
+   ```
    (1) Use a Tomcat server to deploy it
    (2) Open a web browser with url: http://host:port/WebChat/chat # the host and port depend on your Tomcat configuration
    (3) Select a room, then you can chat
